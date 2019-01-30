@@ -1,0 +1,20 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.scroll-container{
+width: 80%;
+height:400px;
+border: 1px solid red;
+overflow: hidden;   
+margin-left: 120px;
+margin-top: 80px;
+}
+.scroll{
+    height:400px;
+    width: 80%;     
+background-size:100% 400px  ;
+background-repeat: no-repeat;
+transition: 1s ease-in-out;
+margin: 0px auto;
+}
